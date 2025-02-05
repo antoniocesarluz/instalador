@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/raphaelbat/instalador-ok
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd && cd ./instalador-ok && sudo ./install_instancia
+cd && cd ./install && sudo ./install_instancia
 ```
 
